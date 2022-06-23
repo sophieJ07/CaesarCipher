@@ -37,7 +37,8 @@ public class CaesarCipher {
             
 		}
         
-		return result; //output the result
+		return result; 
+		//output the result
 		
 	}
 	
